@@ -413,7 +413,7 @@ header {
   position: relative;
 }
 #ul-competence li::before {
-  content: url(/assets/icons/icon-round-check.svg);
+  content: url(../assets/icons/icon-round-check.svg);
   position: absolute;
   width: 1.5rem;
   left: -2rem;
